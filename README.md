@@ -90,7 +90,7 @@ class Developer:
 
 <div align="center">
 
-![GIF](https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif)
+![GIF](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
 
 </div>
 
@@ -102,18 +102,6 @@ class Developer:
 
 [![GitHub](https://img.shields.io/badge/GitHub-1E1E2E?style=for-the-badge&logo=github&logoColor=CDD6F4)](https://github.com/sosaf-ctrl)
 [![Discord](https://img.shields.io/badge/Discord-1E1E2E?style=for-the-badge&logo=discord&logoColor=CBA6F7)](https://discord.com/users/enfantperdus)
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Fun Fact
-
-![GIF](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
-
-> "hitler was vegetarian!"
 
 </div>
 
