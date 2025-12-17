@@ -22,14 +22,12 @@ class Developer:
         self.name = ["H3X", "ssf", "sosaf"]
         self.passion = "Coding & Tech"
         self.current_mood = "Chill"
-        self.coffee_consumption = "∞"
     
     def code(self):
         while True:
             create_awesome_stuff()
-            drink_coffee()
             fix_bugs()
-            learn_new_tech()
+            learn_new_things()
             repeat()
     
     def introduce(self):
@@ -44,7 +42,7 @@ class Developer:
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ skills
 
 <div align="center">
 
@@ -58,7 +56,7 @@ class Developer:
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
