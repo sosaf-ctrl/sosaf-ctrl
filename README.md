@@ -96,46 +96,6 @@ class Developer:
 
 ---
 
-## 💬 Favorite Quotes
-
-<div align="center">
-
-> "Code is like humor. When you have to explain it, it's bad." 
-> 
-> — *Cory House*
-
-> "First rule of programming: if it works, don't touch it!"
-
-</div>
-
-<div align="center">
-
-![GIF](https://media.giphy.com/media/HKV1hbkZ4Ugf6BDTgV/giphy.gif)
-
-</div>
-
----
-
-## 🎮 When I'm Not Coding
-
-<div align="center">
-
-- 🎵 **Music** - I love listening to music while coding
-- 🎮 **Gaming** - A bit of gaming to unwind
-- ☕ **Caffein** - Lots and lots of coffee and redbulls
-- 📚 **Learning** - Always curious about new things
-- 🎨 **learning solidworks** - always cool to learn new things (fake i hate 3D)
-
-</div>
-
-<div align="center">
-
-![GIF](https://media.giphy.com/media/MKUOUJrFldIyi2hJyT/giphy.gif)
-
-</div>
-
----
-
 ## 📫 Contact Me
 
 <div align="center">
