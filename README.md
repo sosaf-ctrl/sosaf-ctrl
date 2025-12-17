@@ -64,7 +64,7 @@ class Developer:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sosaf-ctrl&theme=dark&show_icons=true&hide_border=true&bg_color=1E1E2E&title_color=CDD6F4&icon_color=F5E0DC&text_color=CBD5E1&border_radius=15)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sosaf-ctrl&theme=dark&layout=compact&hide_border=true&bg_color=1E1E2E&title_color=CDD6F4&text_color=CBD5E1&border_radius=15)
+![Top Langs](https://camo.githubusercontent.com/8dc94608aa4b9f3b6266ad6666016b966a1493693518e42e3ac24c526388f4fc/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d736f7361662d6374726c267468656d653d6461726b266c61796f75743d636f6d7061637426686964655f626f726465723d747275652662675f636f6c6f723d314531453245267469746c655f636f6c6f723d43444436463426746578745f636f6c6f723d43424435453126626f726465725f7261646975733d3135)
 
 </div>
 
