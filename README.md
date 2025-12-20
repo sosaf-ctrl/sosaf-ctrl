@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+## Me
 
 <div align="center">
 
@@ -21,19 +21,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊Stats
 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sosaf-ctrl&theme=dark&show_icons=true&hide_border=true&bg_color=1E1E2E&title_color=CDD6F4&icon_color=F5E0DC&text_color=CBD5E1&border_radius=15&cache_seconds=1800)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sosaf-ctrl&theme=dark&layout=compact&hide_border=true&bg_color=1E1E2E&title_color=CDD6F4&text_color=CBD5E1&border_radius=15&cache_seconds=1800&exclude_repo=sosaf-ctrl)
-
-</div>
-
-<div align="center">
-
-![GIF](https://media.giphy.com/media/emleA2iGk5UFLXrGoX/giphy.gif)
 
 </div>
 
