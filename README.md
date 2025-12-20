@@ -12,8 +12,6 @@
 
 <div align="center">
 
-![GIF](https://media.giphy.com/media/nkTKPCTraEixHSjj4F/giphy.gif)
-
 </div>
 
 ```python
@@ -50,7 +48,6 @@ class Developer:
 ![Lua](https://img.shields.io/badge/Lua-1E1E2E?style=for-the-badge&logo=lua&logoColor=89B4FA)
 ![C#](https://img.shields.io/badge/C%23-1E1E2E?style=for-the-badge&logo=c-sharp&logoColor=CBA6F7)
 ![Cursor](https://img.shields.io/badge/Cursor-1E1E2E?style=for-the-badge&logo=visual-studio-code&logoColor=A6E3A1)
-![Linux](https://img.shields.io/badge/Linux-1E1E2E?style=for-the-badge&logo=linux&logoColor=F9E2AF)
 
 </div>
 
@@ -100,25 +97,5 @@ class Developer:
 
 [![GitHub](https://img.shields.io/badge/GitHub-1E1E2E?style=for-the-badge&logo=github&logoColor=CDD6F4)](https://github.com/sosaf-ctrl)
 [![Discord](https://img.shields.io/badge/Discord-1E1E2E?style=for-the-badge&logo=discord&logoColor=CBA6F7)](https://discord.com/users/enfantperdus)
-
-</div>
-
----
-
-<div align="center">
-
-## 🙏 Thanks for visiting my profile!
-
-![GIF](https://media.giphy.com/media/KWQbjrNVOIlSRECvN1/giphy.gif)
-
-**Feel free to contact me if you want to collaborate or just chat!** 💬
-
----
-
-<div align="center">
-
-**Made with ❤️**
-
-**Call me H3X, ssf or sosaf - doesn't matter!** 😊
 
 </div>
