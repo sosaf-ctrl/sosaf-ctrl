@@ -12,36 +12,6 @@
 
 <div align="center">
 
-</div>
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = ["H3X", "ssf", "sosaf"]
-        self.passion = "Coding & Tech"
-        self.current_mood = "Chill"
-    
-    def code(self):
-        while True:
-            create_awesome_stuff()
-            fix_bugs()
-            learn_new_things()
-            repeat()
-    
-    def introduce(self):
-        return f"Hey! I'm {self.name[0]}, but you can also call me {self.name[1]} or {self.name[2]}!"
-```
-
-<div align="center">
-
-</div>
-
----
-
-## 🛠️ skills
-
-<div align="center">
-
 ![Python](https://img.shields.io/badge/Python-1E1E2E?style=for-the-badge&logo=python&logoColor=89B4FA)
 ![Lua](https://img.shields.io/badge/Lua-1E1E2E?style=for-the-badge&logo=lua&logoColor=89B4FA)
 ![C#](https://img.shields.io/badge/C%23-1E1E2E?style=for-the-badge&logo=c-sharp&logoColor=CBA6F7)
@@ -83,7 +53,7 @@ class Developer:
 
 <div align="center">
 
-![GIF](![GIF](https://media.giphy.com/media/TrVla4Z2PYEkU/giphy.gif))
+![GIF](https://media.giphy.com/media/TrVla4Z2PYEkU/giphy.gif)
 
 </div>
 
