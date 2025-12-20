@@ -33,7 +33,7 @@
 
 ---
 
-## 🎯 Current Projects
+## Projects
 
 <div align="center">
 
@@ -53,7 +53,7 @@
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
 <div align="center">
     
