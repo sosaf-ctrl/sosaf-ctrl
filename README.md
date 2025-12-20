@@ -34,8 +34,6 @@ class Developer:
 
 <div align="center">
 
-![GIF](https://media.giphy.com/media/TrVla4Z2PYEkU/giphy.gif)
-
 </div>
 
 ---
@@ -85,7 +83,7 @@ class Developer:
 
 <div align="center">
 
-![GIF](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
+![GIF](![GIF](https://media.giphy.com/media/TrVla4Z2PYEkU/giphy.gif))
 
 </div>
 
@@ -94,8 +92,7 @@ class Developer:
 ## 📫 Contact Me
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-1E1E2E?style=for-the-badge&logo=github&logoColor=CDD6F4)](https://github.com/sosaf-ctrl)
+    
 [![Discord](https://img.shields.io/badge/Discord-1E1E2E?style=for-the-badge&logo=discord&logoColor=CBA6F7)](https://discord.com/users/enfantperdus)
 
 </div>
